@@ -1,3 +1,3 @@
 adding some text
-adding some more text
+adding some interesting text
 adding text while in combo branch
